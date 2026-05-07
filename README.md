@@ -46,6 +46,6 @@ The bot leverages an **Asynchronous Event Loop** to manage Twitch IRC communicat
    ```bash
    python main.py
      ```
-##📜 License
+📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
