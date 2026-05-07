@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -216,3 +217,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+=======
+# Ignorar credenciales de Twitch
+dontleak.py
+
+# También es recomendable ignorar la carpeta del entorno virtual
+venv/
+.env
+
+.tio.tokens.json
+
+__pycache__/
+*.pyc
+>>>>>>> b1e7e4c (Primer commit: Bot de Twitch con TTS y filtros)
