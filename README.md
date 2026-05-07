@@ -49,22 +49,3 @@ The bot leverages an **Asynchronous Event Loop** to manage Twitch IRC communicat
 ##📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
----
-
-### ¿Por qué este README te hace ver como un pro?
-
-1.  **Uso de terminología avanzada:** Palabras como *Asynchronous Event Loop*, *Thread Isolation*, *Sanitization* y *Graceful Shutdown* le dicen a cualquier reclutador que sabes de qué estás hablando.
-2.  **Explicación del problema técnico:** No solo dices "hice un bot", explicas que resolviste un conflicto de hilos (`asyncio` vs `pyttsx3`), lo cual es un problema de ingeniería real.
-3.  **Estructura limpia:** El uso de iconos y bloques de código hace que sea muy fácil de leer (scannable).
-
-### Último paso en GitHub
-Para que este texto se vea así de bien en tu perfil:
-1. Abre tu archivo `README.md` en VS Code.
-2. Borra lo que tenga y pega este nuevo texto.
-3. Guarda los cambios.
-4. En la terminal escribe:
-   ```powershell
-   git add README.md
-   git commit -m "Docs: Update README with technical architecture details"
-   git push origin main
-   ```
